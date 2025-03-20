@@ -6,7 +6,7 @@
 ###########################################
 
 # My config script #
-PLUGIN_TAR="Fury-FHD-3.1.tar.gz"
+PLUGIN_TAR="Fury-FHD.tar.gz"
 MY_URL="https://github.com/islamsalama117/Fury-FHD/raw/refs/heads/main"
 
 ######################################################################################
@@ -36,7 +36,7 @@ if [ $? -eq 0 ]; then
 fi
 
 echo "********************************************************************************"
-echo "   UPLOADED BY  >>>>   EMIL_NABIL " 
+echo "   UPLOADED BY  >>>>   ISLAM SALAMA " 
 sleep 4                        
 echo "$MY_EM"
 echo "**********************************************************************************"

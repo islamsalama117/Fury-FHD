@@ -6,7 +6,7 @@
 ###########################################
 
 # My config script #
-PLUGIN_TAR="Fury-FHD.ipk"
+PLUGIN_TAR="Fury-FHD.tar.gz"
 MY_URL="https://github.com/islamsalama117/Fury-FHD/raw/refs/heads/main"
 
 ######################################################################################
